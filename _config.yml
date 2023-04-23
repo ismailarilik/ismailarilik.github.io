@@ -24,8 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of İsmail Arılık
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ismailarilik.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ismailarilik
 github_username:  ismailarilik
+twitter_username: ismailarilik
+linkedin_username: ismailarilik
+mastodon:
+ - username: ismailarilik
+   instance: mastodon.social
+instagram_username: ismailarilikdev
+youtube_username: ismailarilik
 
 # Build settings
 theme: minima
