@@ -21,7 +21,7 @@
 title: ismailarilik.com
 email: arilik.ismail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  İsmail Arılık'ın kişisel websitesi
+  Personal website of İsmail Arılık
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ismailarilik.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ismailarilik
