@@ -30,8 +30,6 @@ linkedin_username: ismailarilik
 mastodon:
  - username: ismailarilik
    instance: mastodon.social
-instagram_username: ismailarilikdev
-youtube_username: ismailarilik
 
 # Build settings
 theme: minima
