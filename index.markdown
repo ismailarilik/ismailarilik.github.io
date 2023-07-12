@@ -14,4 +14,4 @@ I am reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) nowadays s
 
 I am always open to new exciting opportunities so feel free to contact me anytime.
 
-You can follow me on <a rel="me" href="https://mastodon.social/@ismailarilik">Mastodon</a> to get updates from me.
+You can follow me using social media accounts below to get updates from me.
