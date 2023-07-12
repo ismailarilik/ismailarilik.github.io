@@ -12,4 +12,6 @@ I am a [Silver Sponsor](https://joinmastodon.org/sponsors) of [Mastodon decentra
 
 I am reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) nowadays so maybe one day I can contribute to [the Rust compiler](https://github.com/rust-lang/rust).
 
+I am always open to new exciting opportunities so feel free to contact me anytime.
+
 You can follow me on <a rel="me" href="https://mastodon.social/@ismailarilik">Mastodon</a> to get updates from me.
