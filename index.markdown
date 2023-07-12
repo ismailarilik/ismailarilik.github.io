@@ -10,4 +10,6 @@ Welcome to My Personal Website!
 I am a Lead Software Engineer working at [FactSet](https://www.factset.com/).
 I am a [Silver Sponsor](https://joinmastodon.org/sponsors) of [Mastodon decentralized social media platform](https://joinmastodon.org/).
 
+I am reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) nowadays so maybe one day I can contribute to [the Rust compiler](https://github.com/rust-lang/rust).
+
 You can follow me on <a rel="me" href="https://mastodon.social/@ismailarilik">Mastodon</a> to get updates from me.
