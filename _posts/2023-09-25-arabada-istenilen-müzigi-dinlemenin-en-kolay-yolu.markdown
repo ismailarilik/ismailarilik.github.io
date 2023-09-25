@@ -26,14 +26,14 @@ Arabada müzik dinlemeyi çok seven biri olarak bu sorunlara sahip olmayan ve yi
 Adımlar şunlar:
 
 - YouTube, vb. birçok platformdan çalma listelerini kolaylıkla indirebileceğiniz şu program ile sevdiğiniz şarkıları bir USB'ye indirin:
-  https://github.com/yt-dlp/yt-dlp
+  [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
   Eğer bu program size fazla karmaşık geldiyse herhangi başka bir program da kullanabilir ya da birisinden yardım alabilirsiniz.
 - Araçtaki Android ya da CarPlay'den **VLC Player**'ı indirin:
-  https://www.videolan.org/vlc/
+  [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
   Bu oynatıcının oynatamayacağı bir video ya da müzik olduğunu sanmıyorum.
   Yalnız sisteminizin kapasitesi 4k videolar izlemenize izin vermeyebilir.
 - Araçtaki Android'e **F-Droid**'i indirip kurun:
-  https://f-droid.org/
+  [https://f-droid.org/](https://f-droid.org/)
   Bu programı bir sonraki uygulamayı indirmek için kullanacağız.
 - F-Droid uygulamasında _com.junkfood.seal_ ismiyle arama yaparak Seal uygulamasını bulun, indirin ve kurun.
 - USB'nizi Android sistemine takın ve Seal uygulamasından _İndirme Dizini_ olarak USB'nizi seçin.
