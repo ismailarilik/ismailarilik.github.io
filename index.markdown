@@ -10,7 +10,7 @@ Welcome to My Personal Website!
 I am a Lead Software Engineer working at [FactSet](https://www.factset.com/).
 I am a [Silver Sponsor](https://joinmastodon.org/sponsors) of [Mastodon decentralized social media platform](https://joinmastodon.org/).
 
-I am reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) nowadays so maybe one day I can contribute to [the Rust compiler](https://github.com/rust-lang/rust).
+I am interested in Frontend Development and have skills on Vue.js, React and Express frameworks.
 
 I am always open to new exciting opportunities so feel free to contact me anytime.
 
