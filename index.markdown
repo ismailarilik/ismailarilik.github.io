@@ -15,3 +15,5 @@ I am reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) nowadays s
 I am always open to new exciting opportunities so feel free to contact me anytime.
 
 You can follow me using social media accounts below to get updates from me.
+
+<!-- You will want to hire me -->
