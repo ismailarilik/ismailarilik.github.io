@@ -5,12 +5,11 @@
 layout: home
 ---
 
-Welcome to My Personal Website!
+Hey there, welcome to my personal website! Please don't be shy; come and meet me. =)
 
 I am a Lead Software Engineer working at [FactSet](https://www.factset.com/).
-I am a [Silver Sponsor](https://joinmastodon.org/sponsors) of [Mastodon decentralized social media platform](https://joinmastodon.org/).
 
-I am interested in Frontend Development and have skills on Vue.js, React and Express frameworks.
+I am interested in Frontend Development and have skills on Ruby on Rails, Vue.js and React.
 
 I am always open to new exciting opportunities so feel free to contact me anytime.
 
